@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>جمعية الخير والعطاء</title>
+    <style>
+        body { background-color: #f9f9f9; font-family: sans-serif; text-align: center; }
+        .card { background: white; margin: 50px auto; padding: 30px; width: 80%; border-radius: 20px; shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        h1 { color: #27ae60; }
+        p { color: #555; font-size: 1.2em; }
+        .donate-btn { background: #e67e22; color: white; padding: 15px 30px; border: none; border-radius: 50px; font-weight: bold; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>🌟 جمعية الخير الصغيرة 🌟</h1>
+        <p>مرحباً بك في موقعنا. نحن هنا لنصنع الفرق في حياة الآخرين.</p>
+        <button class="donate-btn" onclick="alert('شكراً لقلبك الطيب!')">ساهم معنا الآن</button>
+    </div>
+</body>
+</html>
+
